@@ -1,4 +1,4 @@
-package it.bx.fallmerayer.tfo.Client;
+package it.bx.fallmerayer.tfo.client;
 
 import it.bx.fallmerayer.tfo.utilities.Colors;
 
